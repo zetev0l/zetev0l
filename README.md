@@ -48,7 +48,6 @@
 - I live in the southeast Asia region (SEA).
 
 ---
-
 <h4 align = "center">pretty basic profile readme ngl</h4>
 <h5 align = 'center'> Apologies for any phrasings that sound weird, I tried my best. 😞</h5>
 <h6 align = 'center'> btw I use Obsidian to edit my .md files </h6>
