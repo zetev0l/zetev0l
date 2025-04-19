@@ -9,7 +9,7 @@
 </div>
 
 # About me!
-- Hello there, I am zetev0l and I'm currently a Senior Highschooler. I code in Roblox Lua 5.4 and mess around in roblox studio. 
+- Hello there, I am zetev0l and I'm currently a Senior Highschooler. I code in Roblox Lua 5.4 and messes around in roblox studio. 
 - I also touch a bit on graphics design, skills enough for me to make cool icons (I use paint.net btw). Portraitures above not related.
 - Coding isn't mainly my hobby but its my last resort hobby prior to playing boring games.
 - English isn't my primary language.
