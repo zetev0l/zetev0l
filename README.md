@@ -18,7 +18,7 @@
 - Currently taking Original Science subjects, and as far as I'm getting... It's pretty good.
 
 # Join date..
-- I joined Github back circa-2021 when I was 13 and left my account untouched for like 3.5 years. That's because I don't even understand what the hell is Github even and moved on to something else.
+- I joined Github back in circa-2021 when I was 13 and left my account untouched for like 3.5 years. That's because I don't even understand what the hell is Github even and moved on to something else.
 - Returning back to Github this year because I saw people using it for their code projects. So, why don't I.
 
 # Qn'A :
