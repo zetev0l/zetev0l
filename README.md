@@ -16,21 +16,36 @@
 - I like cats and snow :3
 
 - Currently taking Original Science subjects, and as far as I'm getting... It's pretty good.
+- The teachers are actually ethusiasts of the respective subjects and well, I learned a lot.
 
 # Join date..
 - I joined Github back in circa-2021 when I was 13 and left my account untouched for like 3.5 years. That's because I don't even understand what the hell is Github even and moved on to something else.
 - Returning back to Github this year because I saw people using it for their code projects. So, why don't I.
+
+# Softwares I play around
+
+<div align = 'center'>
+<p float = 'right' style = "padding: 5px">
+	<a href = "https://www.blender.org">
+	<img src = "https://img.icons8.com/?size=100&id=KDGdN57NLSJa&format=png&color=000000" width = "100" alt = "Blender">
+	</a>
+	<a href = "https://create.roblox.com/landing">
+	<img src = "https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/7/0/d/f/70df4366b386b2c027f1da9292254dffaffb3792.png" width="100" alt="Roblox Studio">
+	</a>
+	<a href = "https://www.getpaint.net/index.html">
+	<img src = "https://img.icons8.com/?size=100&id=60851&format=png&color=000000" width="85" alt="Paint.NET">
+	</a>
+</p>
+</div>
 
 # Qn'A :
 ### Sooo.. Where are my repositories?
 - Keeping them privated for my future references if any.
 - I won't any give off any read/edit access to anyone.
 ### Do you have a Roblox account?
-- You can follow me on [@spheritone](https://www.roblox.com/users/5844980816/profile) Roblox.
+- You can follow me on @spheritone Roblox.
 ### Where do I live?
 - I live in the southeast Asia region (SEA).
-### How do can I be reached out?
-- Keeping myself private for this one. So, not open.
 
 ---
 
