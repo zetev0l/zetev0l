@@ -39,9 +39,6 @@
 </div>
 
 # Qn'A :
-### Sooo.. Where are my repositories?
-- Keeping them privated for my future references if any.
-- I won't any give off any read/edit access to anyone.
 ### Do you have a Roblox account?
 - You can follow me on [@spheritone](https://www.roblox.com/users/5844980816/profile) Roblox.
 ### Where do I live?
