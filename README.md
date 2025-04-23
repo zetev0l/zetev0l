@@ -14,9 +14,10 @@
 - Coding isn't mainly my hobby but its my last resort hobby prior to playing boring games.
 - English isn't my primary language.
 - I like cats and snow :3
-
+<br></br>
 - Currently taking Original Science subjects, and as far as I'm getting... It's pretty good.
 - The teachers are actually ethusiasts of the respective subjects and well, I learned a lot.
+- not too busy, pretty sure I can handle things well.
 
 # Join date..
 - I joined Github back in circa-2021 when I was 13 and left my account untouched for like 3.5 years. That's because I don't even understand what the hell is Github even and moved on to something else.
