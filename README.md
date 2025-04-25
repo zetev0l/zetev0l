@@ -40,6 +40,8 @@
 </div>
 
 # Qn'A :
+### Where are my Repositories and Projects?
+- Privated, I dont like showing stuff openly.
 ### Do you have a Roblox account?
 - You can follow me on [@spheritone](https://www.roblox.com/users/5844980816/profile) Roblox.
 ### Where do I live?
