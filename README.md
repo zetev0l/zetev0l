@@ -1,8 +1,8 @@
 <div align = 'center'>
 <p float="right">
-	<img src="Docs/Images/spheritoneFlagRed.jpg" width="300">
-	<img src="Docs/Images/spheritoneFlagRed.jpg" width="200">
-	<img src="Docs/Images/spheritoneFlagRed.jpg" width="100">
+	<img src="" width="300">
+	<img src="" width="200">
+	<img src="" width="100">
 </p>
 
 <span style='font family : cursive'>- [spheritone Roblox](https://www.roblox.com/users/5844980816/profile) -</span>
