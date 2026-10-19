@@ -11,10 +11,13 @@
 - ???
 - Below are softwares
 
-# Softwares I play around
+# Tools I probably used in some way shape or form
 
 <div align = 'center'>
 <p float = 'right' style = "padding: 5px">
+	<a href = "https://www.audacityteam.org/audacity-4/">
+	<img src = "https://cdn.neowin.com/news/images/uploaded/2026/09/1788465750_audacity_4.0_story.webp" width="100" alt="Audacity 4.0">
+	</a>
 	<a href = "https://www.blender.org">
 	<img src = "https://img.icons8.com/?size=100&id=KDGdN57NLSJa&format=png&color=000000" width = "100" alt = "Blender">
 	</a>
@@ -24,6 +27,11 @@
 	<a href = "https://www.getpaint.net/index.html">
 	<img src = "https://img.icons8.com/?size=100&id=60851&format=png&color=000000" width="85" alt="Paint.NET">
 	</a>
+	<a href = "https://quadspinner.com/Gaea/">
+	<img src = "https://cdn.gaea.app/web2025/img/logo_Gaea.png" width="85" alt="Gaea 2.0">
+	</a>
+	
+	
 </p>
 </div>
 
