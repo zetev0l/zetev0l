@@ -16,7 +16,7 @@
 <div align = 'center'>
 <p float = 'right' style = "padding: 5px">
 	<a href = "https://www.audacityteam.org/audacity-4/">
-	<img src = "https://cdn.neowin.com/news/images/uploaded/2026/09/1788465750_audacity_4.0_story.webp" width="100" alt="Audacity 4.0">
+	<img src = "https://cdn.neowin.com/news/images/uploaded/2026/09/1788465750_audacity_4.0_story.webp" width="200" alt="Audacity 4.0">
 	</a>
 	<a href = "https://www.blender.org">
 	<img src = "https://img.icons8.com/?size=100&id=KDGdN57NLSJa&format=png&color=000000" width = "100" alt = "Blender">
