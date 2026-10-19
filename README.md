@@ -9,14 +9,14 @@
 </div>
 
 # About me!
-- Hello there, I am zetev0l and I'm currently a Senior Highschooler. I code in Roblox Lua 5.4 and messes around in roblox studio. 
+- Hello there, I am zetev0l and I'm currently a Senior Highschooler. I code in Roblox Luau and pretty much mess around in roblox studio. 
 - I also touch a bit on graphics design, skills enough for me to make cool icons (I use paint.net btw). Portraitures above not related.
 - Coding isn't mainly my hobby but its my last resort hobby prior to playing boring games.
 - English isn't my primary language.
 - I like cats and snow :3
 <br></br>
 - Currently taking Original Science subjects, and as far as I'm getting... It's pretty good.
-- The teachers are actually ethusiasts of the respective subjects and well, I learned a lot.
+- The teachers are actually enthusiasts of the respective subjects and well, I learned a lot.
 - not too busy, pretty sure I can handle things well.
 
 # Join date..
